@@ -2,7 +2,7 @@
 
 **Espacio para subir tareas**
 
-**# Integrantes:**
+** Integrantes:**
 - Carlos Pereira
 * Jorge Luis Gómez
 + Verónica Díaz
