@@ -1,10 +1,19 @@
-# Uritorco_UTN_Tercer_Semestre_2023 👋💻
+# Uritorco_UTN_Tercer_Semestre_2023 👋⛰️
 
-**Espacio para subir tareas**
+### Integrantes 💻💻💻💻
+#### 👨‍💻 Karen Cerrudo
+#### 👨‍💻 Verónica Díaz
+#### 👩‍💻 Jorge Luis Gómez
+#### 👩‍💻 Carlos Pereira
+![logo](https://github.com/CodeSystem2022/Uritorco_UTN_Tercer_Semestre_2023/blob/main/logo_uritorco.gif)
 
-Integrantes:
-- Carlos Pereira
-* Jorge Luis Gómez
-+ Verónica Díaz
-* Karen Cerrudo
-![logo](https://github.com/CodeSystem2022/Uritorco_UTN_Tercer_Semestre_2023/blob/main/logo_uritorco.jpg)
+**Espacio para subir tareas 📋📌👇**
+
+## Organización Semanal 🎫 
+
+| SEMANA        | SCRUM MASTER  |
+|-------------- | ------------- |
+| 🖊️ semana 1   | Karen Cerrudo  |
+| 🖊️ semana 2   | Verónica Díaz  |
+| 🖊️ semana 3	 | Jorge Luis Gómez |
+| 🖊️ semana 4	 | Carlos Pereira | 
