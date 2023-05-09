@@ -1,6 +1,6 @@
 # Uritorco_UTN_Tercer_Semestre_2023 👋⛰️
 
-### Integrantes 💻💻💻💻
+### Integrantes ⛰️⛰️⛰️⛰️
 #### 👨‍💻 Karen Cerrudo
 #### 👨‍💻 Verónica Díaz
 #### 👩‍💻 Jorge Luis Gómez
