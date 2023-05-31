@@ -1,0 +1,10 @@
+05/24/23 04:17:54 PM -- DEBUG -- [logger_base.py | línea: 13]: Mensaje de debug
+05/24/23 04:17:54 PM -- INFO -- [logger_base.py | línea: 14]: Mensaje de info
+05/24/23 04:17:54 PM -- WARNING -- [logger_base.py | línea: 15]: Mensaje de warning
+05/24/23 04:17:54 PM -- ERROR -- [logger_base.py | línea: 16]: Mensaje de error
+05/24/23 04:17:54 PM -- CRITICAL -- [logger_base.py | línea: 17]: Mensaje crítico
+05/24/23 04:19:20 PM -- DEBUG -- [logger_base.py | línea: 13]: Mensaje de debug
+05/24/23 04:19:20 PM -- INFO -- [logger_base.py | línea: 14]: Mensaje de info
+05/24/23 04:19:20 PM -- WARNING -- [logger_base.py | línea: 15]: Mensaje de warning
+05/24/23 04:19:20 PM -- ERROR -- [logger_base.py | línea: 16]: Mensaje de error
+05/24/23 04:19:20 PM -- CRITICAL -- [logger_base.py | línea: 17]: Mensaje crítico
