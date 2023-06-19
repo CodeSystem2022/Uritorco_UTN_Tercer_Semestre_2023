@@ -48,3 +48,10 @@
 | 🖊️ semana 6   | Karen Cerrudo  |
 | 🖊️ semana 7	 | Jorge Luis Gómez
 | 🖊️ semana 8	 | Carlos Pereira | 
+
+| SEMANA        | SCRUM MASTER  |
+|-------------- | ------------- |
+| 🖊️ semana 9  | Verónica Díaz  |
+| 🖊️ semana 10   | Karen Cerrudo  |
+| 🖊️ semana 11	 | Carlos Pereira
+| 🖊️ semana 12	 | Jorge Luis Gomez | 
